@@ -1,1 +1,1 @@
-# MVC_Pratik1
+# İlk Mvc Pratiği
